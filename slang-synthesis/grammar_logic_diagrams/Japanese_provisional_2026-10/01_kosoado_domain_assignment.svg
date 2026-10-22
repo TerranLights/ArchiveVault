@@ -1,0 +1,193 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1350"
+     font-family="'Noto Sans CJK JP', 'Noto Sans JP', 'DejaVu Sans', sans-serif">
+  <title>こそあど ― 領域の割り当て</title>
+
+  <defs>
+    <g id="fig">
+      <circle cx="0" cy="-32" r="16" fill="#fff" stroke="#111" stroke-width="3"/>
+      <rect x="-16" y="-12" width="32" height="44" fill="#fff" stroke="#111" stroke-width="3"/>
+    </g>
+    <g id="xh">
+      <circle r="8" fill="#fff" stroke="#111" stroke-width="2.2"/>
+      <line x1="-15" y1="0" x2="15" y2="0" stroke="#111" stroke-width="2.2"/>
+      <line x1="0" y1="-15" x2="0" y2="15" stroke="#111" stroke-width="2.2"/>
+    </g>
+    <style>
+      .ko { fill:#2e9fd6; } .so { fill:#e0a000; } .a { fill:#1a7a3a; } .do { fill:#c0392b; }
+      .fld  { font-size:19px; fill:#111; font-weight:bold; }
+      .jp   { font-size:32px; }
+      .jps  { font-size:21px; fill:#2b4fc8; }
+      .ja   { font-size:16px; fill:#111; }
+      .gl   { font-size:13.5px; fill:#555; }
+      .zone { fill:none; stroke-width:2.6; stroke-dasharray:10,7; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="1350" fill="#fdfdfb"/>
+
+  <!-- ============================ HEADER ============================ -->
+  <text x="34" y="46" font-size="34" fill="#111" font-weight="bold">こそあど ― 領域の割り当て</text>
+  <text x="34" y="76" class="gl" font-size="15">the four values name the system themselves; the question-word is one of them, not a separate class</text>
+
+  <rect x="34" y="96" width="380" height="54" fill="#fff" stroke="#111" stroke-width="2.4"/>
+  <text x="224" y="132" class="ja" font-size="25" text-anchor="middle">「それは誰の領域か」</text>
+
+  <rect x="446" y="96" width="172" height="54" fill="#2e9fd6" fill-opacity="0.13" stroke="#2e9fd6" stroke-width="2.4"/>
+  <text x="472" y="136" class="jp ko">こ</text><text x="512" y="124" class="ja" font-size="15">自分の領域</text>
+  <text x="512" y="142" class="gl" font-size="11.5">mine</text>
+
+  <rect x="630" y="96" width="172" height="54" fill="#e0a000" fill-opacity="0.13" stroke="#e0a000" stroke-width="2.4"/>
+  <text x="656" y="136" class="jp so">そ</text><text x="696" y="124" class="ja" font-size="15">相手の領域</text>
+  <text x="696" y="142" class="gl" font-size="11.5">the other party's</text>
+
+  <rect x="814" y="96" width="176" height="54" fill="#1a7a3a" fill-opacity="0.13" stroke="#1a7a3a" stroke-width="2.4"/>
+  <text x="840" y="136" class="jp a">あ</text><text x="880" y="124" class="ja" font-size="15">どちらでもない</text>
+  <text x="880" y="142" class="gl" font-size="11.5">neither</text>
+
+  <rect x="1002" y="96" width="164" height="54" fill="#c0392b" fill-opacity="0.10" stroke="#c0392b" stroke-width="2.4"/>
+  <text x="1028" y="136" class="jp do">ど</text><text x="1068" y="124" class="ja" font-size="15">未定</text>
+  <text x="1068" y="142" class="gl" font-size="11.5">not yet assigned</text>
+
+  <text x="34" y="184" class="gl" font-size="15">問いは一つ、場は三つ — the same assignment is made on three different fields</text>
+
+  <!-- ============================ FIELD 1 : 場所 ============================ -->
+  <line x1="34" y1="202" x2="1166" y2="202" stroke="#111" stroke-width="2.4"/>
+  <text x="34" y="234" class="fld">場① 場所</text>
+  <text x="172" y="234" class="gl" font-size="14">physical space — two anchors, so necessarily three zones</text>
+
+  <rect x="214" y="252" width="952" height="212" fill="none" stroke="#1a7a3a" stroke-width="2.4" stroke-dasharray="11,8"/>
+  <text x="1146" y="286" class="jp a" text-anchor="end" font-size="30">あ</text>
+  <text x="1146" y="306" class="gl" text-anchor="end">どちらの領域にも入らない</text>
+
+  <circle cx="442" cy="360" r="82" class="zone" stroke="#2e9fd6"/>
+  <use href="#fig" x="442" y="366"/>
+  <text x="442" y="296" class="jp ko" text-anchor="middle">こ</text>
+  <text x="442" y="452" class="gl" text-anchor="middle">話し手</text>
+
+  <circle cx="728" cy="360" r="82" class="zone" stroke="#e0a000"/>
+  <use href="#fig" x="728" y="366"/>
+  <text x="728" y="296" class="jp so" text-anchor="middle">そ</text>
+  <text x="728" y="452" class="gl" text-anchor="middle">聞き手</text>
+
+  <use href="#xh" x="478" y="390"/>
+  <use href="#xh" x="700" y="386"/>
+  <use href="#xh" x="586" y="286"/>
+  <use href="#xh" x="912" y="408"/>
+  <use href="#xh" x="282" y="304"/>
+  <path d="M524,360 Q586,338 646,360" fill="none" stroke="#999" stroke-width="1.6" stroke-dasharray="5,5"/>
+
+  <text x="40" y="300" class="gl">基点が二つあるため、</text>
+  <text x="40" y="322" class="gl">「近い／遠い」の一本の尺度では</text>
+  <text x="40" y="344" class="gl">なく、三分割になる。</text>
+  <text x="40" y="384" class="gl" font-style="italic">two anchors, not one —</text>
+  <text x="40" y="404" class="gl" font-style="italic">so the split cannot be a</text>
+  <text x="40" y="424" class="gl" font-style="italic">single near/far scale</text>
+
+  <!-- ============================ FIELD 2 : 知識 ============================ -->
+  <line x1="34" y1="488" x2="1166" y2="488" stroke="#111" stroke-width="2.4"/>
+  <text x="34" y="520" class="fld">場② 知識</text>
+  <text x="172" y="520" class="gl" font-size="14">knowledge — the identical assignment, made over what each party already holds</text>
+
+  <circle cx="400" cy="704" r="150" fill="#2e9fd6" fill-opacity="0.13" stroke="#2e9fd6" stroke-width="2.8"/>
+  <circle cx="592" cy="704" r="150" fill="#e0a000" fill-opacity="0.13" stroke="#e0a000" stroke-width="2.8"/>
+  <text x="312" y="566" class="gl" text-anchor="middle">自分が持つ情報</text>
+  <text x="684" y="566" class="gl" text-anchor="middle">相手が持つ情報</text>
+
+  <text x="296" y="700" class="jp ko" text-anchor="middle">こ</text>
+  <text x="296" y="726" class="gl" text-anchor="middle" font-size="12">自分が持ち出す</text>
+
+  <text x="496" y="694" class="jp a" text-anchor="middle">あ</text>
+  <text x="496" y="720" class="gl" text-anchor="middle" font-size="12">双方が別々に</text>
+  <text x="496" y="736" class="gl" text-anchor="middle" font-size="12">持っている</text>
+
+  <text x="700" y="700" class="jp so" text-anchor="middle">そ</text>
+  <text x="700" y="726" class="gl" text-anchor="middle" font-size="12">相手が今出したばかり</text>
+  <text x="700" y="742" class="gl" text-anchor="middle" font-size="12">自分に手がかりはない</text>
+
+  <line x1="496" y1="856" x2="496" y2="824" stroke="#111" stroke-width="1.8" stroke-dasharray="5,5"/>
+  <text x="496" y="886" class="jp do" text-anchor="middle">ど</text>
+  <text x="496" y="908" class="gl" text-anchor="middle" font-size="12">どちらも持たない — だから問う</text>
+
+  <rect x="800" y="548" width="366" height="300" fill="#fff" stroke="#111" stroke-width="2"/>
+  <text x="816" y="574" class="gl" font-size="12.5" fill="#c0392b">完全マスター 3級・項目114</text>
+  <text x="816" y="608" class="jps" font-size="20">田中さんを知っていますか</text>
+  <line x1="816" y1="626" x2="1150" y2="626" stroke="#ccc" stroke-width="1.4"/>
+  <text x="816" y="660" class="jps" font-size="20">→ <tspan class="so" font-size="26" font-weight="bold">そ</tspan>の人はどんな人ですか</text>
+  <text x="832" y="684" class="gl">相手だけが出した名前</text>
+  <text x="832" y="704" class="gl" font-style="italic">listener has never met Tanaka</text>
+  <line x1="816" y1="722" x2="1150" y2="722" stroke="#ccc" stroke-width="1.4"/>
+  <text x="816" y="756" class="jps" font-size="20">→ <tspan class="a" font-size="26" font-weight="bold">あ</tspan>の人はおもしろい人ですね</text>
+  <text x="832" y="780" class="gl">双方が別々に知っている</text>
+  <text x="832" y="800" class="gl" font-style="italic">listener has met Tanaka</text>
+  <text x="816" y="830" class="gl" font-size="12.5" fill="#c0392b">同じ対象・同じ距離。変わるのは領域だけ。</text>
+
+  <!-- same question, elsewhere in the grammar -->
+  <rect x="40" y="580" width="172" height="150" fill="#f4f4f0" stroke="#999" stroke-width="1.6"/>
+  <text x="52" y="604" class="gl" font-size="12">同じ問いは文法の</text>
+  <text x="52" y="622" class="gl" font-size="12">他の場所にも —</text>
+  <text x="52" y="650" class="jps" font-size="15">知りません</text>
+  <text x="52" y="672" class="jps" font-size="15">分かりません</text>
+  <text x="52" y="696" class="gl" font-size="11.5">欠落が誰の側に</text>
+  <text x="52" y="712" class="gl" font-size="11.5">あるかで選ばれる</text>
+  <text x="52" y="728" class="gl" font-size="10" font-style="italic">(Nihongo Notes 050)</text>
+
+  <!-- ============================ FIELD 3 : 心理 ============================ -->
+  <line x1="34" y1="936" x2="1166" y2="936" stroke="#111" stroke-width="2.4"/>
+  <text x="34" y="968" class="fld">場③ 心理</text>
+  <text x="172" y="968" class="gl" font-size="14">attitude — the same four values assigned to stance rather than space or knowledge</text>
+
+  <text x="60" y="1012" class="jps" font-size="20"><tspan class="so" font-size="26" font-weight="bold">そ</tspan>んなことを言うな</text>
+  <text x="60" y="1036" class="gl">…を相手の側に置く → 突き放し・非難</text>
+  <text x="60" y="1056" class="gl" font-style="italic">assigning it to your side reads as distancing, rebuke</text>
+
+  <text x="560" y="1012" class="jps" font-size="20"><tspan class="a" font-size="26" font-weight="bold">あ</tspan>んな人</text>
+  <text x="560" y="1036" class="gl">…をどちらの外にも置く → 切り捨て</text>
+  <text x="560" y="1056" class="gl" font-style="italic">assigning it outside both reads as dismissal</text>
+
+  <rect x="60" y="1074" width="1106" height="48" fill="#fff8f0" stroke="#c0392b" stroke-width="1.8"/>
+  <text x="74" y="1094" class="gl" font-size="12.5" fill="#c0392b">注意 — 出典（Kodansha『Japanese Core Words and Phrases』pp.11–13, 30）は、この場での割り当てが表面的な</text>
+  <text x="74" y="1112" class="gl" font-size="12.5" fill="#c0392b">「距離」からは透明に予測できないと明言する。ここは未解決の場として残しておく。 — flagged as the open frontier, not as solved.</text>
+
+  <!-- ============================ PARADIGM ============================ -->
+  <line x1="34" y1="1146" x2="1166" y2="1146" stroke="#111" stroke-width="2.4"/>
+  <text x="34" y="1176" class="fld">領域 × 指示の種類 = 体系全体</text>
+
+  <g stroke="#111" stroke-width="1.5">
+    <line x1="238" y1="1190" x2="1166" y2="1190"/>
+    <line x1="238" y1="1222" x2="1166" y2="1222"/>
+    <line x1="238" y1="1254" x2="1166" y2="1254"/>
+    <line x1="238" y1="1286" x2="1166" y2="1286"/>
+    <line x1="238" y1="1318" x2="1166" y2="1318"/>
+    <line x1="238" y1="1190" x2="238" y2="1318"/>
+    <line x1="300" y1="1190" x2="300" y2="1318"/>
+    <line x1="1166" y1="1190" x2="1166" y2="1318"/>
+    <line x1="412" y1="1190" x2="412" y2="1318"/><line x1="524" y1="1190" x2="524" y2="1318"/>
+    <line x1="656" y1="1190" x2="656" y2="1318"/><line x1="768" y1="1190" x2="768" y2="1318"/>
+    <line x1="896" y1="1190" x2="896" y2="1318"/>
+  </g>
+
+  <g class="gl" text-anchor="middle" font-size="12">
+    <text x="356" y="1184">〜れ</text><text x="468" y="1184">〜の</text><text x="590" y="1184">〜んな</text>
+    <text x="712" y="1184">〜う</text><text x="832" y="1184">場所</text><text x="1031" y="1184">〜ちら</text>
+  </g>
+
+  <g class="jps" text-anchor="middle" font-size="19">
+    <text x="269" y="1214" class="ko" font-size="25" font-weight="bold">こ</text>
+    <text x="356" y="1214">これ</text><text x="468" y="1214">この</text><text x="590" y="1214">こんな</text>
+    <text x="712" y="1214">こう</text><text x="832" y="1214">ここ</text><text x="1031" y="1214">こちら</text>
+
+    <text x="269" y="1246" class="so" font-size="25" font-weight="bold">そ</text>
+    <text x="356" y="1246">それ</text><text x="468" y="1246">その</text><text x="590" y="1246">そんな</text>
+    <text x="712" y="1246">そう</text><text x="832" y="1246">そこ</text><text x="1031" y="1246">そちら</text>
+
+    <text x="269" y="1278" class="a" font-size="25" font-weight="bold">あ</text>
+    <text x="356" y="1278">あれ</text><text x="468" y="1278">あの</text><text x="590" y="1278">あんな</text>
+    <text x="712" y="1278" fill="#c0392b">ああ</text><text x="832" y="1278" fill="#c0392b">あそこ</text><text x="1031" y="1278">あちら</text>
+
+    <text x="269" y="1310" class="do" font-size="25" font-weight="bold">ど</text>
+    <text x="356" y="1310">どれ</text><text x="468" y="1310">どの</text><text x="590" y="1310">どんな</text>
+    <text x="712" y="1310">どう</text><text x="832" y="1310">どこ</text><text x="1031" y="1310">どちら</text>
+  </g>
+
+  <text x="712" y="1340" class="gl" font-size="12" fill="#c0392b">↑ 体系全体で不規則なのはこの二つだけ</text>
+</svg>
