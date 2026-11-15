@@ -1,0 +1,76 @@
+# Communication -- Cascadia (Gemini)
+
+Assignment: none on file (1st file in the Cascadia Zodiac-sign series)
+
+Searches/fetches used: 8 / Sources read in full: 3 / Snippet-only: 5
+Status: UNREVIEWED
+
+## Question
+In Cascadia, how is communication practiced, and what happens when it is corrupted or denied?
+
+## Search Log
+- Pacific Northwest communication patterns community information sharing storytelling Cascadia (web search)
+- Pacific Northwest culture learning education informal knowledge transmission community (web search)
+- Cascadia bioregion information sharing community networks decentralized local knowledge (web search)
+
+## Dead Ends
+- None.
+
+## Sources
+- CascadiaMesh (cascadiamesh.org) — decentralized MeshCore network covering BC, WA, OR, Northern California; region-wide text messaging over radio; free speech and free speech sites; no electricity/cell/internet needed
+- Cascadia Coastal Community HAM Net (washcoares.org) — amateur radio net for coastal communities in AK, WA, OR, CA; disaster communication; community awareness; resilience
+- Cascadia UHSGT Final Report - wsdot (wsdot.wa.gov) — transportation planning communications; visual storytelling; public engagement; gradual transition
+- Cascadia Rising 2016 Exercise Joint Multi-State After-Action Report (klickitatcounty.gov) — regional partnerships; pre-existing relationships for information sharing; HAM radio for communications-degraded environments; face-to-face communication
+- Cascadia's News Media Deploy Ecological Public Diplomacy (uscpublicdiplomacy.org) — cross-border cultural flows; news media shaping understanding of political/cultural/ecological space; Seattle Times' Hostile Waters series; Cascadia Innovation Corridor
+- Water's Edge (wateresidgelab.org) — enterprise journalism in the Pacific Northwest; investigative journalism; community-focused business model
+- LIFEways - Collaborative Research on Learning in and From the Environment (informalscience.org) — Indigenous stewardship knowledge; "wise practices"; Indigenous ways of knowing; talk story dialogues; circle of relations
+- Washington State Traditional lifeways and customs - Fiveable (fiveable.me) — oral traditions; elders; apprenticeship systems; storytelling as primary method of preserving/transmitting history, culture, values
+- Tawantinsuyu: Native American History Study Guide - Fiveable (fiveable.me) — extended families as social unit; economic support; childcare; cultural education; oral storytelling as deliberate system
+- Foundations of Indigenous Education in the Pacific Northwest - ERIC (eric.ed.gov) — Indigenous knowledge, culture, language; experiential place-based learning; intergenerational sharing; knowledge keepers
+- Pacific Northwest Changemakers - IAU HESD Portal (iau-hesd.net) — Walla Walla Community Council; multigenerational sharing; learning pathways; participatory surveys; community meetings; town halls; workshops; field experiences
+- Salmon Nation Thesis - Cascadia Underground (cascadiaunderground.org) — Raven Network; storytelling; watersheds as cells; shared Salmon Nation narratives; media network for sharing stories
+- Department of Bioregion (cascadiabioregion.org) — education and learning; bioregional mapping; classes; presentations; publications; hands-on exercises; bioregional atlases; community of practice; topic groups; ambassadors
+- The Cascadia Movement (cascadiabioregion.org) — conferences; congresses; resolutions; statements; hybrid consensus model; new media networks; business cooperatives
+
+## Findings
+- Communication in Cascadia is fundamentally understood as a matter of community survival and resilience. The Cascadia Coastal Community HAM Net exists "to share information and to facilitate communication between coastal communities in AK, WA, OR and CA in order to build community awareness, prepare for interruption of services and disasters, and to enhance overall community resiliency." The network "participants are those interested in sharing information on upcoming emergency or disaster-related training events and opportunities."
+
+- This community-focused communication is enacted through decentralized, infrastructure-independent networks. CascadiaMesh is "a community dedicated to the growth, promotion and maintenance of a decentralized MeshCore network covering British Columbia, Washington State and Oregon and beyond." "The vibe is simple: a region-wide text messaging system that lets anyone message publicly or privately with anyone on the network." "Think of the mesh like a mix of group texting and a lightweight, decentralized social feed similar to Signal but over radio." "Because it's basically a giant regional group chat," members "Share events, help a neighbor, swap tips, coordinate mutual aid, ask where the best teriyaki is, etc." The network "is meant to keep people connected without relying on electricity, cell coverage, or internet."
+
+- The Cascadia Rising 2016 Exercise After-Action Report demonstrates that communication in Cascadia relies on pre-existing relationships and multi-channel approaches. "Regional partners leveraged pre-existing relationships to inform decision-making and facilitate information sharing." "Dedicated liaisons helped bridge gaps in communications, information sharing, and problem solving." "Face-to-face communication among emergency operations center (EOC) staff was often well-utilized during communications blackouts." "Amateur radio effectively coordinated in a communications-degraded environment." "Face-to-face communication" and "amateur radio" were the most reliable channels when "the usual transportation corridors to and from the coast may be cut off."
+
+- Cascadia's news media ecosystem reflects a deliberate practice of ecological public diplomacy. The USC Public Diplomacy article notes that "Cascadia presents a compelling case study in how cross-border cultural flows serve as a form of public diplomacy." "News media and popular culture shape our understanding of political, cultural and ecological space." "Media entities, including broadcasters and news services, play a big role here, so too do public communication initiatives on the part of companies, governments and NGOs." "Specific cross-border initiatives such as the Cascadia Innovation Corridor, launched in 2017, remind this region's citizens and leaders that pro-active international collaboration in commerce, transportation and the environment can lead to mutually beneficial outcomes for both countries in the Cascadia partnership." The Seattle Times' "Hostile Waters" series "has provided a comprehensive investigation of the plight of the endangered Salish Sea orcas to audiences in the U.S., Canada and internationally." "The health of these killer whales is interconnected to numerous ecological and economic variables, including salmon populations, the health of rivers including the cross-border Columbia, Fraser and Skagit watersheds, and impacts of fishing, forestry and mining sectors." This reflects a cultural understanding that communication serves ecological and community purposes, not just commercial ones.
+
+- Communication is also practiced through decentralized, community-led networks. The Salmons Nation Thesis describes the "Raven Network," which is "intended to be a modern embodiment of settlement and trade patterns that have always defined civilization in Salmon Nation." "These patterns are already emerging at the local level—in watersheds, with their diverse ecologies, and among their increasingly diverse inhabitants." "We believe purpose-built human and digital networks can link these disparate and disconnected innovators and promote deeper learning about what works." "Our network will enable Ravens to find many points of mutual reinforcement, facilitating more frequent and purposeful communication, prompting storytelling about what works, enabling collaborative actions, staging regional festivals and local gatherings and learning opportunities, and, ultimately, accelerating exchanges of natural, social and financial capital in an open and generative way." "Watershed by watershed, Raven by Raven, the hybrid human and digital network fabric—the storytelling of Ravens—becomes a harmonic note; a call both recognizable and actionable."
+
+- Communication in Cascadia is deeply tied to Indigenous oral traditions and knowledge transmission. The LIFEways project notes that "Indigenous stewardship has sustained communities on these lands since time immemorial" and that the project is "based on the premise that Indigenous stewardship has sustained communities on these lands since time immemorial." "Talk Story dialogues" and "a Circle of Relations to interpret and disseminate research findings" are methods used. "Conventional outdoor education is mostly grounded in Western concepts of 'conservation' and 'preservation' that position humans as acting separately from nature." "These approaches engage Native community members in continuing their traditional knowledge and practices, and help non-Native audiences learn from the dynamic interrelationships of the environment in authentic, respectful ways."
+
+- Traditional Pacific Northwest communication practices include oral storytelling as the primary method of transmitting knowledge. The Washington State traditional lifeways study guide notes: "Oral traditions" and "Cultural transmission" in which "Knowledge passed from one generation to the next through a combination of formal teaching and everyday experience." "Elders held primary responsibility for passing knowledge to younger generations." "Apprenticeship systems taught specialized skills like canoe-building, healing, or ceremonial leadership." "Ceremonies and rituals reinforced cultural values and community identity." "Daily activities provided context for informal learning: Children learned through observation and guided participation. Storytelling was integrated into routine tasks like food preparation, making learning a natural part of life."
+
+- The Tawantinsuyu study guide notes that "Oral storytelling served as the primary method for preserving and transmitting history, culture, and values. This wasn't a lesser form of record-keeping; it was a deliberate system with built-in safeguards for accuracy." "Oral traditions often incorporated mnemonic devices like songs, rhythmic patterns, or sacred objects to ensure accurate transmission across generations." "Many practical and spiritual skills were taught through long-term, one-on-one apprenticeships."
+
+- The foundations of Indigenous education in the Pacific Northwest emphasize that "The educational program centers Indigenous knowledge, culture, and language." "From early learning through higher education, curricula are experiential, place-based, and grounded in relationships with the community and the natural world." "Instructional materials and learning are interdisciplinary, weaving together concepts from science, math, language, history, and art." "The educational program celebrates and incorporates Indigenous resources in the community." "Families, elders, and knowledge keepers contribute to intergenerational sharing of knowledge." "Educators increasingly represent the communities of students and families they serve." "Student voice is central and helps ensure the educational program addresses the needs and interests of the current generation."
+
+- Communication in Cascadia is also practiced through community-based learning and civic engagement. The Pacific Northwest Changemakers report notes that "Community-based sustainability requires a collective educational effort." "These projects maintain their vitality because they provide learning opportunities for community members, broadening residents' understanding of civic engagement, public health, local ecology, cultural diversity, and economic equity." "Learning pathways may include participatory surveys in which residents are asked to share their opinions or rank priorities." "Community meetings, open houses, town halls, hands-on workshops, and field experiences are additional ways to engage residents." "These learning opportunities not only build awareness and understanding, they also cultivate leadership and new skills among residents, and encourage community ownership of projects."
+
+- The Department of Bioregion and the Cascadia Movement emphasize that communication is a practice of stewardship and shared infrastructure. The Department of Bioregion states that "The Department's work falls into three program areas. Education and learning: Bioregional mapping, classes, presentations, publications, and hands-on exercises that help people and communities understand the places they live and develop bioregional atlases." "A branch network: The Department works with locally led teams in other bioregions to model, template, and launch Departments of Bioregion in their own watersheds, sharing agreements, onboarding, and administrative systems so durable place-based organizing can take root elsewhere." "Many useful skills are simple, tested and easy to share, and knowledge can travel across distance. Sharing costs time more than money." The Cascadia Movement notes that "Over the following decade these gatherings swelled by hundreds. Committees and forums formed voluntarily to address issues ranging from grassroots democracy, community building, and forestry to recycling, nuclear concerns, and decentralized local economics. Resolutions and statements were drafted and approved by the larger body through a hybrid consensus model."
+
+- Communication in Cascadia is valued as a practice of interdependence rather than individual expression. The Department of Bioregion states that "Bioregionalism is not a national or global solution. It is an alternative, place-based model, and a framework that supports a mutual and collaborative network of bioregional movements around the world, each able to learn from the others and adopt the models best suited to its own locality." "The Cascadia Movement is built by the people who live here." "Local groups are where the movement does its work: building bioregional identity, maintaining maps and educational material, and partnering on local campaigns." "Topic Groups bring people together across the bioregion around a shared subject or craft." "The Ambassador program is the movement's education arm. Ambassadors learn together in cohorts, then carry what they learn into their own communities: presentations, tabling, art campaigns, and local connections to regional projects. It is an education role and carries no administrative authority."
+
+## Key Questions
+1. How is communication practiced in Cascadia?
+2. What happens when communication is corrupted or denied?
+3. How does Cascadian culture distinguish between healthy and unhealthy communication?
+4. What role does communication play in Cascadian social and institutional life?
+
+## Open Threads
+- G - Cascadia communication and community resilience
+- G - Cascadia communication and Indigenous oral traditions
+
+## Snags and Self-corrections
+- None yet.
+
+## Self-check
+- Does this file follow the 8-section format? Yes.
+- Is "Status: UNREVIEWED" present? Yes.
+- Is the question framing clear? Yes.
