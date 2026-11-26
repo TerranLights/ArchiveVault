@@ -32,7 +32,7 @@ The tiers are the author's, by term and urgency:
 - **Secondary priority:** the mini-scale game environment; Human-to-Robot DCI translation; Spanish fluency; Southern Lights; short films.
 - **Intermittent priority:** the particulars of regional standards; slang synthesis; C++ testing; history books (download and extraction); movies and other WebTV series.
 
-If the author changes the list, update the table below to match, and say so in the log.
+If the author changes the list, update the table below to match, and the item list in the Long-Term Progress section of the author's global `~/.claude/CLAUDE.md`, and say so in the log.
 
 ## The author's note on "particulars of regional standards" (2026-11-25, verbatim)
 
@@ -77,12 +77,12 @@ Keep one row per item. Edit **only the row of the item you worked on**. "Next sm
 | Human-to-Robot DCI translation | Secondary | Derivation Mechanisms: `Environment/DCI [Deep Culture Investigation]/LONG-TERM PROJECT - Robot DCI datasets.md` (it needs the human DCI research first). The translation is its own process. It builds on the GDD's robot-culture files (`.../Cities/Local_Robot_Culture/`, same GDD path as the Amundsen-Scott row), which are an unfinished foundational basis, not a finished pass. | not yet recorded | | |
 | Spanish fluency | Secondary | `w-other/Spanish/` (books, lesson plans) | not yet recorded | | |
 | Southern Lights | Secondary | `TV/SouthernLights/` (its scripts are never tracked in git) | not yet recorded | | |
-| Short films | Secondary | `TV/short films/` | not yet recorded | | |
+| Short films | Secondary | `w-other/audio_visual media/short films/` | not yet recorded | | |
 | Particulars of regional standards | Intermittent | to fill in (author); what the item means: the author's note above (verbatim), with its starting points | not yet recorded | | |
 | Slang synthesis | Intermittent | `Reference/slang-synthesis/` | not yet recorded | | |
 | C++ testing | Intermittent | to fill in (author) | not yet recorded | | |
 | History books (download and extraction) | Intermittent | to fill in (author) | not yet recorded | | |
-| Movies and other WebTV series | Intermittent | `TV/` (for example `cinematic movies/`, `full-length TV series/`, `miniseries/`, `ElvenSteel/`, `Tuned/`, `Metal band Rockumentary miniseries/`, `Sonora metaseries/`) | not yet recorded | | |
+| Movies and other WebTV series | Intermittent | `TV/` (`ElvenSteel/`, `Tuned/`) and `w-other/audio_visual media/` (`cinematic movies/`, `full-length TV series/`, `miniseries/`, `Metal band Rockumentary miniseries/`, `Sonora metaseries/`) | not yet recorded | | |
 
 Paths are relative to `/home/kuroskalacs/Documents/Doll-Fi/media/`. "Not yet recorded" means no session has asked the author yet; ask before you fill it in.
 
@@ -126,3 +126,5 @@ Paths are relative to `/home/kuroskalacs/Documents/Doll-Fi/media/`. "Not yet rec
 - 2026-11-26 (PlotHoleGDD session) Music basis-of-reference research: correction to the 2026-11-26 (CurrentNovelDocs session) line that called this topic the Overprocess MISE. At the author's word, researching music is this topic; synthesizing what kinds of music exist in the Tepenian Federation is the MISE, an Overprocess. The row, both catalogs, and the README's list of the big build (MISE added) updated to match. No stage change.
 - 2026-11-26 (PlotHoleGDD session) Character profiles, arcs and backgrounds: the author ruled the Derivation Mechanisms copy of the Enneagram type files the master; the GDD's `Worldspace/Enneagram/` is an older copy. The row and the global CLAUDE.md updated to match. Also, at the author's choice, the regional-standards note in `2-Year Incremental Progress.md` got its own heading, and `# Location` became `## Location`. No stage change.
 - 2026-11-26 (slang-synthesis session) Character profiles, arcs and backgrounds: wording only, at the author's word: in the row, "don't work from it" now ends its sentence, so it can't be read as applying to the Stage 1–5 pipeline that follows. No stage change.
+- 2026-11-26 (SafetyCodeViolatorGDD session) Setup: path fix. Short films and five of the movies/WebTV folders (cinematic movies, full-length TV series, miniseries, the metal-band rockumentary miniseries, the Sonora metaseries) live in `w-other/audio_visual media/`, not `TV/`; only ElvenSteel, Tuned and SouthernLights are in `TV/`. The two rows and the catalog updated to match. No stage change.
+- 2026-11-26 (SafetyCodeViolatorGDD session) Setup, at the author's word: the November 26 entry in `logs/2026/2026-11.md` re-indented to the nested layout, no wording changed (the catalog line now sits under its own "ULM, DCI, CST and RWBEM" bullet); `LOG-SCAFFOLDING.md` says so. The rule for list changes now also covers the item list in the global `~/.claude/CLAUDE.md`, so the two can't drift apart. No stage change.

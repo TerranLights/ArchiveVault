@@ -173,7 +173,7 @@ The TV series of the Second Interwar Period: an ensemble work whose protagonist 
 
 #### Short films
 
-<brief summary> (`TV/short films/`)
+<brief summary> (`w-other/audio_visual media/short films/`)
 
 #### Objective
 
@@ -255,7 +255,7 @@ Plausible slang for each in-universe culture and language, handed on to the Tepe
 
 #### Movies and other WebTV series
 
-The author's other screen works (`TV/`): for example cinematic movies, full-length TV series, miniseries, Elven Steel (an Irish-Gaelic science-fiction WebTV series), Tuned, the metal-band rockumentary miniseries and the Sonora metaseries; and films such as the Gilgamesh retelling and the Garcelle science-fiction horror movie.
+The author's other screen works (`TV/` and `w-other/audio_visual media/`): for example cinematic movies, full-length TV series, miniseries, Elven Steel (an Irish-Gaelic science-fiction WebTV series), Tuned, the metal-band rockumentary miniseries and the Sonora metaseries; and films such as the Gilgamesh retelling and the Garcelle science-fiction horror movie.
 
 #### Objective
 
