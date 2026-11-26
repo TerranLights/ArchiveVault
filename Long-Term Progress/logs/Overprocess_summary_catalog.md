@@ -39,7 +39,7 @@ A full-depth cultural record of every contributing culture-nation, as the ground
 
 #### Music Investigation, Synthesis, and Extrapolation
 
-<brief summary>
+The synthesis of what kinds of music exist in the Tepenian Federation (author, 2026-11-26). It builds on the music basis-of-reference research, which is a Long-Term Progress topic of its own (see `Incremental_Progress_summary_catalog.md`): the research is the topic, the synthesis is this Overprocess. <more detail, for the author>
 
 #### Objective
 

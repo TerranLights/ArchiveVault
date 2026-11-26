@@ -19,7 +19,7 @@ A cast whose personality profiles, arcs, and character backgrounds are ready for
 - **Start from the Enneagram type files, never copy them** (the author's design law): every field (fear, desire, wound, growth path) is adjusted to the character herself, and no two characters of one type share the same stated fear or desire.
 - **The five-stage character pipeline** in Derivation Mechanisms (`Characters/Character_Development_Methodology/`).
 - **The Universal Design Laws** (the Timeline repo) and the audience lens (`y-files/writing stories for men/data/`) read before design work.
-- **The main character is always a robot,** in every work and medium.
+- **The main character is always a robot,** in every work and medium; the one exception is *Toronto Fell Out* (Universal Design Law, `Reference/TepenianUniverseTimeline/Universal Design Laws/Main_Character_Always_a_Robot.md`).
 
 ## Hawaiian/Tepenian language
 
@@ -89,9 +89,9 @@ The author's audiocasts: many series, of which only one has been described here 
 
 ## Music basis-of-reference research
 
-#### The Overprocess MISE (Music Investigation, Synthesis, and Extrapolation)
+#### Music basis-of-reference research
 
-The research that gives the universe's music a real-world basis of reference. It is also an Overprocess: see **MISE** in `Overprocess_summary_catalog.md`. Very likely kept in the Culture Library repo.
+The research that gives the universe's music a real-world basis of reference. Very likely kept in the Culture Library repo. **The research is this topic; the synthesis is not** (author, 2026-11-26): synthesizing from it what kinds of music exist in the Tepenian Federation is the Overprocess **MISE** (see `Overprocess_summary_catalog.md`), logged under Overprocess, not here.
 
 #### Objective
 
