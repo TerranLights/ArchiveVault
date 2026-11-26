@@ -1,0 +1,89 @@
+STATUS: started 2026-11-25. Updated by every session that moves an item forward.
+
+# Long-Term Progress: small pieces, every day
+
+**Read this first** in any session (any parallel Claude session) that touches one of the items below. It keeps track of where the author is on each item of the list in `media/2-Year Incremental Progress.md` (full path: `/home/kuroskalacs/Documents/Doll-Fi/media/2-Year Incremental Progress.md`), so that any session can tell at once how far along each thing is.
+
+## What this is
+
+The Tepenian Federation is a very large build. The author's own estimate is **at least a year and a half, probably more than two years**:
+
+- the full ULM corpus for the whole Federation;
+- the full-depth DCI research for every contributing nation;
+- the DCI synthesis of the cities' own municipal and local cultures;
+- the full CST and RWBEM corpora for the Federation;
+- the regional details of each subnet;
+- the full ULM, DCI, CST and RWBEM specifications for the districts of Concordia;
+- the same corpus for the orbital infrastructure;
+- and later, the foundational basis of Mars.
+
+That big work has its own trackers (for the DCI, for example, the Culture Library's `MASTER TRACKER.md`). **It is not tracked here.**
+
+**This folder tracks the other things**: the author's long-term items, done in **tiny pieces every single day** over the next two to three years, alongside the big build. The point is steady, daily accomplishment. Two or three years from now, these threads should be well along, not waiting to be done all at once. **The list is not a to-do list for one go, and it does not compete with the big build for time or allotment.**
+
+**The cadence, in the author's words:** *"A relatively small amount of progress on some amount of work per day, every single day, seven days a week, for the next two to three years."* No item rotation is set; the author decides what the day's piece is.
+
+## The items (from the author's list)
+
+The tiers are the author's, by term and urgency:
+
+- **Top priority:** character arcs and backgrounds (broad-scale); the Hawaiian/Tepenian language; novels (plot outlines and text); Amundsen-Scott research and development.
+- **Secondary priority:** the mini-scale game environment; Human-to-Robot DCI translation; Spanish fluency.
+- **Intermittent priority:** the particulars of regional standards; slang synthesis; C++ testing; history books (download and extraction).
+
+If the author changes the list, update the table below to match, and say so in the log.
+
+## How far along: the scale
+
+Every item has a stage. **The author sets or confirms the stage**; a session proposes a change, it doesn't decide one.
+
+| Stage | Meaning |
+|---|---|
+| 0 | Not started |
+| 1 | Groundwork: gathering, reading, setting up |
+| 2 | Under way: real pieces getting done |
+| 3 | Substantial: most of the shape is there |
+| 4 | Finishing: polishing, filling gaps |
+| 5 | Done (as the author defines done for that item) |
+
+## Where each item stands
+
+Keep one row per item. Edit **only the row of the item you worked on**. "Next small piece" is always **one finishable piece**, small enough for one day.
+
+| Item | Tier | Where the work lives | Stage | Last step (date) | Next small piece |
+|---|---|---|---|---|---|
+| Character arcs and backgrounds (broad-scale) | Top | Derivation Mechanisms `Characters/` (the Enneagram design law: start from the type files, never copy them); the novels' and the GDD's character files | not yet recorded | | |
+| Hawaiian/Tepenian language | Top | `Reference/TepenianLanguage/` (start at its `00_START_HERE.md`; phases in `ROADMAP.md`) | not yet recorded | | |
+| Novels (plot outlines and text) | Top | `Literature/books/CurrentNovelDocs/` (one folder per book); `Literature/books/The Cryptograph Helix series/` | not yet recorded | | |
+| Amundsen-Scott research and development | Top | Inner Tepenia GDD, all under `games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/`: `Specs/Amundsen-Scott subnet/Amundsen_Station.md`; `City_Vision_Notes/Amundsen_Station.md`; `City_Enneagram_Personalities/Amundsen_Station/Amundsen_Station.md`; `Local_Cultures/Amundsen_Station/Amundsen_Station.md`; `Local_Robot_Culture/Amundsen_Station/Amundsen_Station.md`; and the census (its population rests on different principles from the rest of the Federation). Also the Timeline: `Reference/TepenianUniverseTimeline/to-be-integrated/city-histories/Amundsen_Station/Amundsen_Station.md`. A parallel set of these files also exists in `Literature/books/CurrentNovelDocs/reference/Worldspace/` (see the canon note below the table). | not yet recorded | | |
+| Mini-scale game environment | Secondary | to fill in (author) | not yet recorded | | |
+| Human-to-Robot DCI translation | Secondary | Derivation Mechanisms: `Environment/DCI [Deep Culture Investigation]/LONG-TERM PROJECT - Robot DCI datasets.md` (it needs the human DCI research first). The translation is its own process. It builds on the GDD's robot-culture files (`.../Cities/Local_Robot_Culture/`, same GDD path as the Amundsen-Scott row), which are an unfinished foundational basis, not a finished pass. | not yet recorded | | |
+| Spanish fluency | Secondary | `w-other/Spanish/` (books, lesson plans) | not yet recorded | | |
+| Particulars of regional standards | Intermittent | to fill in (author) | not yet recorded | | |
+| Slang synthesis | Intermittent | `Reference/slang-synthesis/` | not yet recorded | | |
+| C++ testing | Intermittent | to fill in (author) | not yet recorded | | |
+| History books (download and extraction) | Intermittent | to fill in (author) | not yet recorded | | |
+
+Paths are relative to `/home/kuroskalacs/Documents/Doll-Fi/media/`. "Not yet recorded" means no session has asked the author yet; ask before you fill it in.
+
+**Canon:** the only canonical source is the Tepenian Universe Timeline repo (`Reference/TepenianUniverseTimeline/`). Every other location above is work in progress, including both the GDD's files and the `CurrentNovelDocs/reference/` set. Neither of those two overrides the other.
+
+## Rules for every session
+
+1. **Read this file first** when the author works on one of the items, and the item's own files after it (each repo's own rules and canon still apply there).
+2. **Small pieces.** Help the author pick and finish **one** small piece. Never pile more onto an item than a day holds, and never turn the list into a backlog to clear. Small daily wins are the whole point.
+3. **After a piece is done,** update that item's row (last step with its date, the next small piece) and add one line to the log below.
+4. **Stages are the author's.** Propose a stage change in the log; change the Stage column only when the author agrees.
+5. **Parallel sessions.** Several sessions may use this file at once. Re-read it right before you edit it. Change only your own item's row. Add to the log only at the end, and never rewrite or reorder anyone else's lines.
+6. **Don't duplicate the work here.** This file records where things stand and points to where the work lives. The work itself stays in its own repo or folder.
+7. **American English**, plain words. The author's standing rules apply as everywhere else.
+
+## Progress log
+
+This section holds **the current year's lines only**. Earlier years move to `log/YYYY.md`, as [`LOG-SCAFFOLDING.md`](LOG-SCAFFOLDING.md) describes.
+
+One line per piece, newest at the bottom:
+`- YYYY-MM-DD (which session or repo) Item: what was done. Next: the next small piece.`
+
+- 2026-11-25 (CurrentNovelDocs session) Setup: this README created from the author's list and explanation. Next: the author fills in the stages and the four "to fill in" locations, one at a time, when convenient.
+- 2026-11-25 (TheCryptographHelixDD session) Setup: full Amundsen-Scott path and all its sibling files listed; canon note added (Timeline repo only); Human-to-Robot DCI row corrected (GDD robot culture is an unfinished foundation, translation is separate); cadence stated; source-list link made move-safe; `LOG-SCAFFOLDING.md` added for splitting the log by year. Next: the author moves the folder into the Archive Vault repo.
