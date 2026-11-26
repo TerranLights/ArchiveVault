@@ -1,76 +1,57 @@
 # Log Scaffolding: keeping years of daily progress readable
 
-At one or more lines a day, seven days a week, for two to three years, the progress log in `README.md` will grow to well over a thousand lines. This guide sets out how to split it so that:
+At one entry a day, seven days a week, for two to three years, the daily record will run to well over a thousand entries. **The author set up its structure on 2026-11-26: one log file per month, in a folder per year.** This guide sets out how sessions use it so that:
 
 - `README.md` stays short enough to read at the start of every session;
 - nothing is ever lost or rewritten;
 - several sessions working at once never collide.
 
-**This structure is not set up yet.** Build it the first time the trigger below is met, following these steps exactly.
+*(Rewritten 2026-11-26 for the author's monthly layout; it replaces the earlier plan of one `log/YYYY.md` file per year.)*
 
-## The target structure
+## The structure
 
 ```
 Long-Term Progress/
-├── README.md             ← status table + the current year's log only
-├── LOG-SCAFFOLDING.md    ← this guide
-└── log/
-    ├── README.md         ← index of the year files
-    ├── 2026.md
-    ├── 2027.md
-    └── 2028.md
+├── README.md                          ← status table, rules, and the short log of changes to the tracker itself
+├── LOG-SCAFFOLDING.md                 ← this guide
+└── logs/
+    ├── template_(clean).md            ← the blank entry, to copy from
+    ├── template_(explanatory).md      ← the same, with the author's notes on what each part means
+    ├── Overprocess_summary_catalog.md ← what each Overprocess is (ULM, DCI, MISE, CST, RWBEM)
+    ├── Incremental_Progress_summary_catalog.md ← what each Long-Term Progress topic is (its counterpart)
+    ├── 2026/2026-11.md, 2026-12.md
+    ├── 2027/2027-01.md … 2027-12.md
+    └── 2028/2028-01.md … 2028-12.md
 ```
 
-- **One file per calendar year,** named by the year: `log/YYYY.md`.
-- **Year files are archives.** Once a year is closed, its file is never edited again, except to fix a factual error the author points out.
-- **The status table never moves.** It always stays in `README.md`, because it shows where things stand *now*.
+- **One file per month,** named `logs/YYYY/YYYY-MM.md`, in a folder for its year.
+- **The author made the month files through December 2028.** Most of them start as empty files. If a month's file is missing (a month before or after that range) or empty, create or fill it from `template_(clean).md`: the title `# Progress Log: <Month> <Year>`, the Monthly Summary, and the `## Daily Progress` heading.
+- **The status table never moves.** It stays in `README.md`, because it shows where things stand *now*.
 
-## When to split
+## What a day's entry holds
 
-**Trigger:** the first session that works on or after **January 1** of a new year, and finds lines from the previous year still in `README.md`'s log.
+Each day gets one heading, `### <Month> <Day>, <Year>` (for example `### November 26, 2026`), with the three parts of the template:
 
-That session closes the previous year before it adds its own log line. This applies only at the year boundary. Never split mid-year, even if the log feels long. One fixed rule means parallel sessions never have to guess whether someone else is about to split.
+1. **Overprocess:** which of the big build's Overprocesses moved that day (ULM, DCI, MISE, CST, RWBEM; see the catalog), and the activity.
+2. **Long-Term Progress:** each topic from the author's list worked on that day (more than one is fine), with a short daily summary and its mini-achievements.
+3. **Resource Usage:** tokens, in millions, and the weekly allotment, in percent. **Tokens** come from the ledgers where there are any (for the DCI springboard runs, the Cost ledger in the Culture Library's `Springboarding/_dispatch/SPRINGBOARD_PROGRESS.md`); write "not measured" where there's no ledger. **The allotment** is the author's own meter reading for that day, with its time; never an estimate passed off as a reading (an estimate is labeled as one).
 
-## How to split (step by step)
+`template_(explanatory).md` has the author's own notes on each part.
 
-1. **Re-read `README.md` right now,** immediately before you edit, as the README's rule 5 requires for parallel sessions.
-2. **If `log/` doesn't exist yet, create it,** along with `log/README.md` (template below).
-3. **Create `log/YYYY.md`** for the year being closed (template below).
-4. **Move, don't copy.** Cut every log line dated in that year out of `README.md` and paste it into `log/YYYY.md`, unchanged and in the same order. Don't reword, merge, summarize or reorder anything.
-5. **Check the count.** The number of lines in `log/YYYY.md` must equal the number removed from `README.md`. If they differ, stop and fix it before going on.
-6. **Add the year to `log/README.md`'s index,** with its line count and the stage of each item at year's end, taken from the status table as it stands.
-7. **Add a line to `README.md`'s log** recording the split, then your own line for the day's piece:
-   `- YYYY-MM-DD (session) Log: closed YYYY into log/YYYY.md (N lines).`
-8. **If the folder is under git** (the Archive Vault repo), commit the split on its own, separate from any other change, so the move shows up cleanly in history. Ask the author before committing or pushing, as the Archive Vault rules require.
+## How sessions write it
 
-## Templates
-
-### `log/README.md`
-
-```markdown
-# Progress log archive
-
-Closed years of the Long-Term Progress log, one file per year. The current year's log is in `../README.md`. These files are never edited after closing.
-
-| Year | File | Lines | Stages at year's end |
-|---|---|---|---|
-| 2026 | [2026.md](2026.md) | N | Character arcs 0, Tepenian language 0, ... |
-```
-
-### `log/YYYY.md`
-
-```markdown
-# Progress log: YYYY
-
-Closed on YYYY-MM-DD by (session). Moved unchanged from `../README.md`. Do not edit.
-
-- YYYY-MM-DD (session) Item: what was done. Next: the next small piece.
-- ...
-```
+1. **Re-read the month's file right before you edit it.** Several sessions may be writing the same day.
+2. **Find today's heading, or add it at the bottom** of `## Daily Progress`, in date order.
+3. **Add to the day; never rewrite it.** If today's entry already exists, add your Overprocess activity or your topic and its mini-achievements under the right part, below what is there. Don't reword, merge or reorder another session's lines.
+4. **One day, one heading.** Never make a second heading for the same date.
+5. **Resource Usage:** if another session has already recorded a figure for the day, don't overwrite it. Add yours as a separate line naming your session, or leave the day's total for the author.
+6. **The Monthly Summary** is written at the month's end, or when the author asks; it summarizes, and changes no daily entry.
+7. **Also update `README.md`:** the topic's row in the status table (last step with its date, next small piece), as the README's rules say.
 
 ## Rules
 
-- **Never delete a log line.** Lines move from `README.md` to a year file; they don't disappear.
-- **Never rewrite history.** If an old line is wrong, the author decides the fix, and the correction goes in as a new line in the current log that names the date of the wrong one.
-- **Stages stay the author's,** as everywhere else. The "stages at year's end" column copies the table and decides nothing.
-- **Keep this guide in step with the README.** If the log format in `README.md` changes, update the templates here to match.
+- **Never delete an entry.** A closed month's file is an archive: it is never edited again, except to fix a factual error the author points out.
+- **Never rewrite history.** If an old entry is wrong, the author decides the fix, and the correction goes into today's entry, naming the date of the wrong one.
+- **Stages stay the author's,** as everywhere else.
+- **Keep this guide in step with the templates.** If the author changes the template, follow the template.
+- **The folder is in the Archive Vault repo.** Ask the author before committing or pushing, as the Archive Vault rules require.
