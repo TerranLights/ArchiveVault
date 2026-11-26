@@ -2,7 +2,7 @@
 
 ##### Monthly Summary
 
-<Summary> // (general activites throughout the month)
+<Summary> // (general activities throughout the month)
 
 ## Daily Progress
 
