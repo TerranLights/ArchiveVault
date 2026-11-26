@@ -28,7 +28,7 @@
     ***/
 
 - <Overprocess>
-- <Overprocess Activity>
+    - <Overprocess Activity>
 
 #### Long-Term Progress
 
@@ -43,14 +43,14 @@
     * (etc, and so on and so forth)
     *
     * A complete list of Incremental Progress topics can be found at:
-    * `/home/kuroskalacs/Documents/Doll-Fi/media/2-Year Incremental Progress.md`
+    * `/home/kuroskalacs/Documents/Doll-Fi/media/w-other/ArchiveVault/Long-Term Progress/logs/Incremental_Progress_summary_catalog.md`
     ***/
 
 - <Topic>
-- <Daily Summary>
-    - <mini-achievement>
-    - <mini-achievement>
-    - <mini-achievement>
+    - <Daily Summary>
+        - <mini-achievement>
+        - <mini-achievement>
+        - <mini-achievement>
 
 #### Resource Usage
 

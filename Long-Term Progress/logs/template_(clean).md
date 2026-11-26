@@ -11,15 +11,15 @@
 #### Overprocess
 
 - <Overprocess>
-- <Overprocess Activity>
+    - <Overprocess Activity>
 
 #### Long-Term Progress
 
 - <Topic>
-- <Daily Summary>
-    - <mini-achievement>
-    - <mini-achievement>
-    - <mini-achievement>
+    - <Daily Summary>
+        - <mini-achievement>
+        - <mini-achievement>
+        - <mini-achievement>
 
 #### Resource Usage
 

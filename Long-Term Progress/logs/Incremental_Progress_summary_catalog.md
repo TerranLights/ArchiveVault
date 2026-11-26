@@ -215,7 +215,7 @@ Plausible slang for each in-universe culture and language, handed on to the Tepe
 
 #### Summary of Methodology
 
-- **Reference extraction** from a large local library of real slang sources, language by language (finished for English, Japanese, Korean, Spanish and Tagalog by 2026-11-25).
+- **Reference extraction** from a large local library of real slang sources, language by language. Phase 1 extraction was complete for sixteen languages by 2026-11-04: Serbian/Croatian/Bosnian, Hungarian, Korean, Russian, Spanish, Dutch, Romanian, Japanese, Tagalog, English, Hawaiian, Ilocano, Cantonese, Swedish, Norwegian and Danish. German, Italian and Mongolian are triaged, not yet extracted. The current list is in the repo's `LANGUAGE_INDEX.md`.
 - **Analysis** of how slang forms in each.
 - **Synthesis** of the in-universe slang, with hand-offs to the Tepenian language repo.
 
