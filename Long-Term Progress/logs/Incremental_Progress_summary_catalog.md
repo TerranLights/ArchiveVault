@@ -19,7 +19,7 @@ A cast whose personality profiles, arcs, and character backgrounds are ready for
 - **Start from the Enneagram type files, never copy them** (the author's design law): every field (fear, desire, wound, growth path) is adjusted to the character herself, and no two characters of one type share the same stated fear or desire.
 - **The five-stage character pipeline** in Derivation Mechanisms (`Characters/Character_Development_Methodology/`).
 - **The Universal Design Laws** (the Timeline repo) and the audience lens (`y-files/writing stories for men/data/`) read before design work.
-- **The main character is always a robot,** in every work and medium; the one exception is *Toronto Fell Out* (Universal Design Law, `Reference/TepenianUniverseTimeline/Universal Design Laws/Main_Character_Always_a_Robot.md`).
+- **The main character is always a robot,** in every work and medium, with one recorded exception (Universal Design Law, `Reference/TepenianUniverseTimeline/Universal Design Laws/Main_Character_Always_a_Robot.md`).
 
 ## Hawaiian/Tepenian language
 
@@ -75,7 +75,7 @@ The Federation's city at the South Pole: a small town of rotating staff, mostly 
 
 #### Audiocasts
 
-The author's audiocasts: many series, of which only one has been described here so far, The Not-Departure series (an audio drama reinterpreting Ally's 2013 ASMR piece "Departure"; `Audiocasts/The_Not-Departure_series/`). <the other audiocasts>
+The author's audiocasts: many series, of which only one has been described here so far, The Not-Departure series (an audio drama; `Audiocasts/The_Not-Departure_series/`). <the other audiocasts>
 
 #### Objective
 
@@ -157,7 +157,7 @@ The author's own fluency in Spanish, built over the two to three years (`w-other
 
 #### Southern Lights
 
-The TV series of the Second Interwar Period: an ensemble work whose protagonist is an idea; about sixteen seasons (the author's leaning). AI-rendered, with human voice actors. Its scripts are never tracked in git (`TV/SouthernLights/`).
+A TV series. AI-rendered, with human voice actors. Its scripts are never tracked in git (`TV/SouthernLights/`).
 
 #### Objective
 
@@ -255,7 +255,7 @@ Plausible slang for each in-universe culture and language, handed on to the Tepe
 
 #### Movies and other WebTV series
 
-The author's other screen works (`TV/` and `w-other/audio_visual media/`): for example cinematic movies, full-length TV series, miniseries, Elven Steel (an Irish-Gaelic science-fiction WebTV series), Tuned, the metal-band rockumentary miniseries and the Sonora metaseries; and films such as the Gilgamesh retelling and the Garcelle science-fiction horror movie.
+The author's other screen works (`TV/` and `w-other/audio_visual media/`): for example cinematic movies, full-length TV series, miniseries, Elven Steel, Tuned, the metal-band rockumentary miniseries and the Sonora metaseries; and the author's films.
 
 #### Objective
 
