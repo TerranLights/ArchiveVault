@@ -33,8 +33,10 @@ Long-Term Progress/
 Each day gets one heading, `### <Month> <Day>, <Year>` (for example `### November 26, 2026`), with the three parts of the template:
 
 1. **Overprocess:** which of the big build's Overprocesses moved that day (ULM, DCI, MISE, CST, RWBEM; see the catalog), each as its own bullet with its activity nested under it.
-2. **Long-Term Progress:** each topic from the author's list worked on that day (more than one is fine), each as its own bullet, with its short daily summary nested under it and the mini-achievements under the summary. Nesting keeps clear which summary belongs to which topic. (Entries before November 26, 2026 use the earlier flat layout and stay as written; the November 26 entry was re-indented to the nested layout at the author's word, with no wording changed.)
+2. **Long-Term Progress:** each topic from the author's list worked on that day (more than one is fine), each as its own bullet, with its short daily summary nested under it and the mini-achievements under the summary. Nesting keeps clear which summary belongs to which topic. (Entries before November 26, 2026 use the earlier flat layout and stay as written.)
 3. **Resource Usage:** tokens, in millions, and the weekly allotment, in percent. **Tokens** come from the ledgers where there are any (for the DCI springboard runs, the Cost ledger in the Culture Library's `Springboarding/_dispatch/SPRINGBOARD_PROGRESS.md`); write "not measured" where there's no ledger. **The allotment** is the author's own meter reading for that day, with its time; never an estimate passed off as a reading (an estimate is labeled as one).
+
+**Only actual progress gets logged** (author, 2026-11-26): real work done on an Overprocess, or on one of the topics on the author's list (for example, updating the plot architecture of the Cryptograph Helix novel series, under Novels). Work on the tracker itself (setting it up, adding topics, filling in catalogs or locations, fixing paths, changing rules) is never a day's progress: it goes only in the README's short log. A day with no topic progress gets `- (none recorded)` under Long-Term Progress.
 
 `template_(explanatory).md` has the author's own notes on each part.
 
