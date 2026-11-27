@@ -57,3 +57,4 @@ Each day gets one heading, `### <Month> <Day>, <Year>` (for example `### Novembe
 - **Stages stay the author's,** as everywhere else.
 - **Keep this guide in step with the templates.** If the author changes the template, follow the template.
 - **The folder is in the Archive Vault repo.** Ask the author before committing or pushing, as the Archive Vault rules require.
+- **Commit only your own lines** (author, 2026-11-26). Several sessions edit the same files at once, so a file may hold other sessions' uncommitted lines next to yours. Stage only your own changes and leave theirs in the working tree. `git add -p` is interactive and not available to Claude sessions; instead, apply a patch of just your hunks to the index (`git apply --cached`). If your lines can't be separated from theirs, say so and let the author decide.
