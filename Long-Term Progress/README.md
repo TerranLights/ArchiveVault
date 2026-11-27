@@ -79,7 +79,7 @@ Keep one row per item. Edit **only the row of the item you worked on**. "Next sm
 | Southern Lights | Secondary | `TV/SouthernLights/` (its scripts are never tracked in git) | not yet recorded | | |
 | Short films | Secondary | `w-other/audio_visual media/short films/` | not yet recorded | | |
 | Particulars of regional standards | Intermittent | to fill in (author); what the item means: the author's note above (verbatim), with its starting points | not yet recorded | | |
-| Slang synthesis | Intermittent | `Reference/slang-synthesis/` | not yet recorded | | |
+| Slang synthesis | Intermittent | `Reference/slang-synthesis/` | not yet recorded | 2026-11-26: Australian English research plan written (`datasets/Australian_English/00_Research_Plan.md`), covering every slang domain | Acquire one general Australian slang reference from the plan's §6 (by hand, no allotment needed). |
 | C++ testing | Intermittent | to fill in (author) | not yet recorded | | |
 | History books (download and extraction) | Intermittent | to fill in (author) | not yet recorded | | |
 | Movies and other WebTV series | Intermittent | `TV/` (`ElvenSteel/`, `Tuned/`) and `w-other/audio_visual media/` (`cinematic movies/`, `full-length TV series/`, `miniseries/`, `Metal band Rockumentary miniseries/`, `Sonora metaseries/`) | not yet recorded | | |
